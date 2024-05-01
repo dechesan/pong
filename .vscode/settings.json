@@ -1,0 +1,19 @@
+{
+    "Lua.diagnostics.globals": [
+        "love",
+        "class_commons",
+        "smallFont",
+        "largeFont",
+        "scoreFont",
+        "sounds",
+        "player1",
+        "player2",
+        "ball",
+        "player1Score",
+        "player2Score",
+        "servingPlayer",
+        "winningPlayer",
+        "gameState",
+        "push"
+    ]
+}
